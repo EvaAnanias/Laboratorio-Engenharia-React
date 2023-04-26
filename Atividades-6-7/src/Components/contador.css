@@ -1,0 +1,14 @@
+.img {
+	display: inline-block;
+	width: 40%; 
+  }
+  
+  .buttons-container {
+	display: inline-block;
+	text-align: center;
+	margin-left: 5%;
+  }
+
+  .button{
+	margin-right: 10px;
+  }
