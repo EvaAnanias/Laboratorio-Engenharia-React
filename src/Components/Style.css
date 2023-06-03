@@ -1,0 +1,49 @@
+.atv {
+	width: 15%;
+	color: #fff;
+	text-align: left;
+	background-color: #6c2d6a;
+	border-radius: 0 0 20px 0;
+}
+
+/* Página Inicial */
+
+.pag{
+	background-color: #6c2d6a;
+	margin: 0 40% 0 40%;
+	border-radius: 0 15px 0 15px;
+	color: #fff;
+	text-align: center;
+	margin-top: 1%;
+}
+
+.lista {
+	padding-top: 4%;
+	list-style: none;
+	color: #fff;
+}
+
+.cor {
+	color: #fff;
+	text-decoration: none;
+}
+
+.quadrado {
+	background-color: #91528f;
+	width: 30% !important;
+	margin: 10px;
+	padding: 10px;
+	float: left !important;
+	border-radius: 15px 0 15px 0;
+	transition: border-radius 0.4s ease;
+	transition: background-color 0.4s ease;
+}
+
+.quadrado:hover{
+	border-radius: 0 15px 0 15px;
+	background-color: #6c2d6a;
+}
+
+
+
+

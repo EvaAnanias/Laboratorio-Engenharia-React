@@ -1,16 +1,14 @@
-import logo from './logo.svg';
-import Letreiro from "./Components/Letreiro";
-import Relogio from "./Components/Relogio";
-import ContadorPessoas from "./Components/Contador";
-import './App.css';
+
+import MinhasRotas from "./minhasRotas";
+import React from "react";
+
+
 
 function App() {
   return (
-    <div className="App">
-      <Letreiro />
-      <Relogio />
-      <ContadorPessoas />
-    </div>
+    <>
+      <MinhasRotas />
+    </>
   );
 }
 
